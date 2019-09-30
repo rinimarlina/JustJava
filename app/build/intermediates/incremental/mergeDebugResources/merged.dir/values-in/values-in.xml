@@ -44,6 +44,6 @@
     <string msgid="146198913615257606" name="search_menu_title">"Telusuri"</string>
     <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="thankyou">Terima Kasih!</string>
-    <string name="toppings">Atasan</string>
+    <string name="toppings">Topping</string>
     <string name="whipped_cream">Krim Susu</string>
 </resources>

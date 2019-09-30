@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Hanya Java</string>
     <string name="name">Nama</string>
-    <string name="toppings">Atasan</string>
+    <string name="toppings">Topping</string>
     <string name="whipped_cream">Krim Susu</string>
     <string name="chocolate">Cokelat</string>
     <string name="quantity">Jumlah</string>
